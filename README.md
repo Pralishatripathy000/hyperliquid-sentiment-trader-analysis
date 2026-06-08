@@ -1,3 +1,9 @@
+<div align center>
+<img width="1983" height="793" alt="ChatGPT Image Jun 8, 2026, 02_45_36 PM" src="https://github.com/user-attachments/assets/29f94b0b-53fa-4f62-8c3e-96a7eb95e23c" />
+</div>
+
+###
+
 # Hyperliquid Trader Performance Analysis Using Bitcoin Market Sentiment
 
 ## Overview
