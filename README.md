@@ -235,6 +235,9 @@ primetrade-market-sentiment-analysis/
 ├── requirements.txt
 └── README.md
 ```
+<img width="1536" height="1024" alt="3b7e4132-591d-4d68-9d21-1dc62468af0f" src="https://github.com/user-attachments/assets/195da368-256b-4478-9fe0-02f34008cf43" />
+
+
 
 ---
 
