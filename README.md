@@ -133,9 +133,7 @@ Analyzed:
 
 Extreme Greed delivered the highest average profitability.
 
-### Statistical Validation
 
-A one-way ANOVA test was performed to validate whether profitability differences across market sentiment regimes occurred by chance. The results confirmed statistically significant variation in trader profitability across sentiment categories, reinforcing the impact of market sentiment on trading outcomes.
 
 ---
 
